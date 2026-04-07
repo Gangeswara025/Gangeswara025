@@ -1,48 +1,168 @@
-<h1 align="center">Hi 👋, I'm Gangeswara</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gangeswara025&label=Profile%20views&color=fb641b&style=flat" alt="Gangeswara025" /> </p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ░██████╗░░█████╗░███╗░░██╗░██████╗░███████╗░██████╗       ║
+║   ██╔════╝░██╔══██╗████╗░██║██╔════╝░██╔════╝██╔════╝        ║
+║   ██║░░██╗░███████║██╔██╗██║██║░░██╗░█████╗░░╚█████╗░        ║
+║   ██║░░╚██╗██╔══██║██║╚████║██║░░╚██╗██╔══╝░░░╚═══██╗        ║
+║   ╚██████╔╝██║░░██║██║░╚███║╚██████╔╝███████╗██████╔╝        ║
+║    ╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚══════╝╚═════╝         ║
+║                                                              ║
+║          F U L L - S T A C K   D E V E L O P E R             ║
+║            A I - F O C U S E D   B U I L D E R               ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="left">
-I am a Full-Stack Developer specializing in building modern, scalable web applications and seamless user experiences. I enjoy creating robust backend systems using Python (Flask/FastAPI) and building beautiful, responsive frontends with React, Tailwind CSS, and Vanilla JS.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+real-world+products+that+work.;AI+%2B+Backend+Systems+Engineer.;Clean+Architecture.+Sharp+UI.+Real+Impact." alt="Typing SVG" />
 
-### 🛠️ Tech Stack & Tools
+</div>
 
-**Frontend Development:**
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
+---
 
-**Backend & APIs:**
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-</p>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Gangeswara025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" />
 
-### 🚀 What I've Been Building
-- **Premium E-Commerce Frontend** - A beautifully designed Vanilla JS shopping cart running securely on localStorage.
-- **AI Business Assistant** - Python Flask backend seamlessly integrating the OpenAI API to power business chat interfaces.
-- **Textile Connect Pro** - Modern B2B SaaS platform designs prioritizing scalability and UI/UX.
-- **Secure Authentication Systems** - FastAPI backends structured with live email verification workflows.
+### `whoami`
 
-### 📊 GitHub Stats
+```python
+class Gangeswara:
+    role     = "Full-Stack Developer"
+    focus    = ["AI-powered apps", "Backend Systems", "Scalable APIs"]
+    values   = ["Clean Code", "Real Impact", "Performance"]
+    learning = "Always — by building, breaking, and rebuilding"
+    mindset  = "Ship things that actually work in the real world."
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+```
+React ············· ██████████
+JavaScript ········ ██████████
+Tailwind CSS ······ █████████░
+HTML / CSS ········ ██████████
+```
+
+</td>
+<td valign="top" width="50%">
+
+**Backend**
+```
+Python ············ ██████████
+FastAPI ··········· █████████░
+Flask ············· █████████░
+Node.js ··········· ███████░░░
+```
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gangeswara025&show_icons=true&theme=radical" alt="Gangeswara's GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gangeswara025&theme=radical" alt="Gangeswara's Streak Stats" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,flask,fastapi,nodejs,git&theme=dark" />
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Business Assistant
+> Flask · OpenAI · Python
+
+Real-time query handling for business automation. Built with OpenAI integration and designed for production-grade reliability.
+
+`AI` `LLM` `Flask` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧵 Textile Connect — B2B SaaS
+> React · FastAPI · Tailwind
+
+A scalable B2B platform tailored for the textile industry. Structured for real business workflows with sharp UI/UX decisions.
+
+`SaaS` `B2B` `Full-Stack` `Product Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Authentication System
+> FastAPI · JWT · Email Verification
+
+Modular, secure auth system with email verification, token management, and clean backend architecture.
+
+`Security` `FastAPI` `Backend` `Modular`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce System
+> Vanilla JS · LocalStorage · Performance
+
+Pure Vanilla JS shopping experience with persistent cart — zero bloat, maximum performance.
+
+`Vanilla JS` `Performance` `Frontend` `UX`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  [▓▓▓▓▓▓▓▓▓░]  AI-Powered Application Development          │
+│  [▓▓▓▓▓▓▓▓░░]  Backend System Design & Architecture        │
+│  [▓▓▓▓▓▓▓░░░]  API Performance & Scalability               │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <i>"Writing code that makes an impact."</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangeswara025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangeswara025&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" />
+</p>
+
+---
+
+<div align="center">
+
+### 💭 The One Rule
+
+```
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║   " Build things that actually work               ║
+║     in the real world. "                          ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+```
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gangeswara025&style=flat-square&color=00d9ff&label=PROFILE+VIEWS)
+
+</div>
