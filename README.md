@@ -20,9 +20,11 @@
 
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-
 ## `$ whoami`
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```typescript
 const Gangeswara = {
@@ -46,7 +48,14 @@ const Gangeswara = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
