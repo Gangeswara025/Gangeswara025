@@ -1,168 +1,148 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Gangeswara
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ░██████╗░░█████╗░███╗░░██╗░██████╗░███████╗░██████╗       ║
-║   ██╔════╝░██╔══██╗████╗░██║██╔════╝░██╔════╝██╔════╝        ║
-║   ██║░░██╗░███████║██╔██╗██║██║░░██╗░█████╗░░╚█████╗░        ║
-║   ██║░░╚██╗██╔══██║██║╚████║██║░░╚██╗██╔══╝░░░╚═══██╗        ║
-║   ╚██████╔╝██║░░██║██║░╚███║╚██████╔╝███████╗██████╔╝        ║
-║    ╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚══════╝╚═════╝         ║
-║                                                              ║
-║          F U L L - S T A C K   D E V E L O P E R             ║
-║            A I - F O C U S E D   B U I L D E R               ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 🚀 AI × Full Stack × Product Building
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+real-world+products+that+work.;AI+%2B+Backend+Systems+Engineer.;Clean+Architecture.+Sharp+UI.+Real+Impact." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Products+That+Solve+Real+Problems;AI+Developer+%7C+Backend+Builder;Future+Startup+Founder;Learning+By+Building" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gangeswara025&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Gangeswara025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" />
-
-### `whoami`
+## 🧑‍💻 About Me
 
 ```python
 class Gangeswara:
-    role     = "Full-Stack Developer"
-    focus    = ["AI-powered apps", "Backend Systems", "Scalable APIs"]
-    values   = ["Clean Code", "Real Impact", "Performance"]
-    learning = "Always — by building, breaking, and rebuilding"
-    mindset  = "Ship things that actually work in the real world."
-```
 
-<br clear="right"/>
+    role = "Full Stack Developer"
 
----
+    currently_learning = [
+        "AI Engineering",
+        "Backend Systems",
+        "System Design",
+        "SaaS Development"
+    ]
 
-## ⚡ Tech Stack
+    mission = """
+    Build products that solve
+    real-world problems.
+    """
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-```
-React ············· ██████████
-JavaScript ········ ██████████
-Tailwind CSS ······ █████████░
-HTML / CSS ········ ██████████
-```
-
-</td>
-<td valign="top" width="50%">
-
-**Backend**
-```
-Python ············ ██████████
-FastAPI ··········· █████████░
-Flask ············· █████████░
-Node.js ··········· ███████░░░
-```
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,flask,fastapi,nodejs,git&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Business Assistant
-> Flask · OpenAI · Python
-
-Real-time query handling for business automation. Built with OpenAI integration and designed for production-grade reliability.
-
-`AI` `LLM` `Flask` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧵 Textile Connect — B2B SaaS
-> React · FastAPI · Tailwind
-
-A scalable B2B platform tailored for the textile industry. Structured for real business workflows with sharp UI/UX decisions.
-
-`SaaS` `B2B` `Full-Stack` `Product Design`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Authentication System
-> FastAPI · JWT · Email Verification
-
-Modular, secure auth system with email verification, token management, and clean backend architecture.
-
-`Security` `FastAPI` `Backend` `Modular`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce System
-> Vanilla JS · LocalStorage · Performance
-
-Pure Vanilla JS shopping experience with persistent cart — zero bloat, maximum performance.
-
-`Vanilla JS` `Performance` `Frontend` `UX`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Focus
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  [▓▓▓▓▓▓▓▓▓░]  AI-Powered Application Development          │
-│  [▓▓▓▓▓▓▓▓░░]  Backend System Design & Architecture        │
-│  [▓▓▓▓▓▓▓░░░]  API Performance & Scalability               │
-└─────────────────────────────────────────────────────────────┘
+    motto = "Ideas → Products → Impact"
 ```
 
 ---
 
-## 📊 GitHub Activity
+# ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangeswara025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
-</p>
+### Frontend
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangeswara025&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" />
-</p>
+![React](https://skillicons.dev/icons?i=react)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Backend
+
+![Python](https://skillicons.dev/icons?i=python)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+# 🚀 Featured Projects
+
+## ☕ Coffee Connect
+
+India's coffee ecosystem platform connecting:
+
+* Farmers
+* Buyers
+* Roasters
+* Consumers
+
+**Goal:** Make Indian coffee visible and accessible.
+
+---
+
+## 🧵 Textile Connect
+
+B2B marketplace for textile businesses.
+
+### Features
+
+✔ Supplier Discovery
+
+✔ Product Showcase
+
+✔ Lead Generation
+
+✔ Business Networking
+
+---
+
+## 🤖 AI Business Assistant
+
+AI-powered assistant designed for:
+
+* Business Support
+* Customer Queries
+* Workflow Automation
+* Knowledge Retrieval
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangeswara025&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```txt
+██████████░░ AI Applications
+█████████░░░ Backend Development
+████████░░░░ System Design
+███████░░░░░ Startup Building
+```
+
+---
+
+# 💡 Philosophy
+
+> Build products.
+>
+> Not projects.
+>
+> Solve problems.
+>
+> Not assignments.
 
 ---
 
 <div align="center">
 
-### 💭 The One Rule
+### ⚡ Ideas → Code → Products → Impact
 
-```
-╔═══════════════════════════════════════════════════╗
-║                                                   ║
-║   " Build things that actually work               ║
-║     in the real world. "                          ║
-║                                                   ║
-╚═══════════════════════════════════════════════════╝
-```
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gangeswara025&style=flat-square&color=00d9ff&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Gangeswara025&color=blueviolet&style=for-the-badge" />
 
 </div>
